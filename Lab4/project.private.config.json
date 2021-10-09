@@ -1,0 +1,72 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/rank/rank",
+          "pathName": "pages/rank/rank",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/home/home",
+          "pathName": "pages/home/home",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/join/join",
+          "pathName": "pages/join/join",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/create/create",
+          "pathName": "pages/create/create",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/home/home",
+          "pathName": "pages/home/home",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/group_game/group_game",
+          "pathName": "pages/group_game/group_game",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/single_game/single_game",
+          "pathName": "pages/single_game/single_game",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/create/create",
+          "pathName": "pages/create/create",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
